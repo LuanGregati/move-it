@@ -1,0 +1,52 @@
+[
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima por 1 minuto",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Estique seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos cada braço",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Puxe seu pescoço com a ajuda das maõs para a direita e para a esquerda, permanecendo na posição por 10 segundos e repita o exercício",
+        "amount": 70
+    },
+    {
+        "type": "body",
+        "description": "Com as duas maõs na parte de trás da cabeça, leve-a para baixo, alongando a parte de trás da cabeça por 5 segundos. Repita 3 vezes",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Cruze as pernas e desça com as mãos esticadas em direção ao chão por 10 segundos. Repita 2 vezes",
+        "amount": 100
+    },
+    {
+        "type": "body",
+        "description": "Sentado, abra as pernas e tente encostar as palmas das mãos no chão. Repita 3 vezes por 5 segundos",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Puxe o joelho de encontro ao peito e segure, troque de perna após 10 segundos.",
+        "amount": 50
+    },
+    {
+        "type": "eye",
+        "description": "Sentado, feche os olhos e cubra-os com a palma da mão durante 2 minutos, depois abra normalmente",
+        "amount": 80
+    },
+    {
+        "type": "eye",
+        "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3 segundos. Mexa apenas a sua cabeça",
+        "amount": 90
+    },
+    {
+        "type": "eye",
+        "description": "Usando os polegares, massage a área abaixo das sombrancelhas em movimento circulares por 15 segundos",
+        "amount": 90
+    }
+]
